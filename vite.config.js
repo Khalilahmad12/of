@@ -5,3 +5,4 @@ export default defineConfig({
   plugins: [react()],
   base: "/of/"   // ⚠️ repo ka exact name
 })
+
